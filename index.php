@@ -9,7 +9,7 @@
 <?php include("includes/navigation.php");?>
 
 <div class="container" id="main-content">
-	<h2>Welcome to my website!</h2>
+	<h2>Bienvenidos a mi sitio web!</h2>
 	<p>Some content goes here! Let's go with the classic "lorem ipsum."</p>
 
 	<p>
