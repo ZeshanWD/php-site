@@ -6,7 +6,7 @@
 <div class="container">
 	<ul class="nav nav-pills">
 	  <li class="nav-item">
-	    <a class="nav-link <?= $currentPage == "/index.php" ? 'active' : '' ?>" href="index.php">Home</a>
+	    <a class="nav-link <?= ($currentPage == "/index.php" || $currentPage == '/') ? 'active' : '' ?>" href="index.php">Home</a>
 	  </li>
 	  <li class="nav-item">
 	    <a class="nav-link <?= $currentPage == "/about.php" ? 'active' : '' ?>" href="about.php">About Us</a>
