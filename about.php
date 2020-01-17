@@ -15,9 +15,9 @@
 	<p>
 		Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam facere ad cumque in voluptate temporibus magnam sequi autem, voluptates assumenda possimus doloribus iure reiciendis suscipit voluptatum distinctio omnis itaque molestiae natus. Culpa voluptates distinctio nam aperiam, cumque recusandae ad est placeat! Numquam a dolor nisi quas iure suscipit odio ipsam.
 	</p>
-	
+
 	<p>
-		Lorem ipsum dolor sit, amet consectetur adipisicing elit. Totam facere ad cumque in voluptate temporibus magnam sequi autem, voluptates assumenda possimus doloribus iure reiciendis suscipit voluptatum distinctio omnis itaque molestiae natus. Culpa voluptates distinctio nam aperiam, cumque recusandae ad est placeat! Numquam a dolor nisi quas iure suscipit odio ipsam.
+		Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempora, culpa.
 	</p>
 
 	<p>
